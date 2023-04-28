@@ -16,4 +16,4 @@
 
 [Общая папка](https://drive.google.com/drive/u/0/folders/14GFB8A_AZs3TTw7p2aYm0ipXF8vmWgXd) (Notebook, презентация, документы по кейсу, сертификаты)
 
-[Tableau дашборды](https://public.tableau.com/app/profile/olga.selezneva/viz/Megafon/sheet0)
+[Tableau дашборд](https://public.tableau.com/app/profile/olga.selezneva/viz/Megafon/sheet0)
